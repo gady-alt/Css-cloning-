@@ -3,14 +3,133 @@
     width: 300px
     
 }
-#image{
-    position: relative;
-    height: auto
-}
-#relate{
-    position:absolute;
-    
-}
 #download{
     border-radius: 50px;
+}
+#theimage{
+    position:relative;
+    height: 700px;
+    
+
+
+}
+.inimage{
+    position: absolute;
+    height: 100px;
+    top: 250px;
+    left: 45px;
+    color: white;
+    font-size: 30px;
+    opacity:1;
+    height: 100px;
+}
+#inimagenext{
+    position: relative;
+    top: 350px;
+    background-color: white;
+    width: 850px;
+    border-radius: 20px;
+    height: 80px;
+    position:sticky;
+    top:2px;
+
+}
+#button1{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    width: 200px;
+    border-color: rgba(0, 0, 0, 0.233);
+    height: 60px;
+    
+}
+#image1{
+    position: absolute;
+    height: auto;
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 20px;  
+}
+#button2{
+    position: absolute;
+    left: 250px;
+    top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.233);
+    height:60px;
+}
+#image2{
+    position: absolute;
+    height: auto;
+    width: 30px;
+    top: 20px;
+    left: 252px;
+}
+#button3{
+    position: absolute;
+    left: 480px;
+    top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.233);
+    height:60px;
+}
+#image3{
+    position: absolute;
+    height: auto;
+    width: 30px;
+    top: 20px;
+    left: 500px;  
+}
+#button4{
+    position: absolute;
+    left: 700px;
+    top: 10px;
+    padding: 20px;
+    border-radius: 50px;
+    width: 100px;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.233);
+    height:60px;
+    background-color: blue;
+    color: white;
+}
+#button5{
+    position: relative;
+    margin-top: 2px;
+    margin-left: 3px;
+    border-radius: 20px;
+    background-color: rgb(5, 5, 49);
+    color: white;
+    font-weight: bolder;
+    height: 100;
+    width: 1000;
+    
+}
+#image5{
+    height: auto;
+    width: 50px;
+    float: left;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+#register{
+    position: absolute;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 70px;
+    margin-top: 2px;
+    left: 870px;
+    height: 20px;
+    color: white;
+    top:810px;
 }
