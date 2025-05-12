@@ -144,6 +144,11 @@
 }
 .purwords{
     display:inline-block;
-    width: 600px;
-    
+    width: 600px;  
+}
+#theleft{
+    float:right
+}
+#newone{
+   height: 130px;
 }
