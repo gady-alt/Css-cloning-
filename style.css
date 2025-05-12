@@ -1,0 +1,16 @@
+.inline{
+    display:inline-block;
+    width: 300px
+    
+}
+#image{
+    position: relative;
+    height: auto
+}
+#relate{
+    position:absolute;
+    
+}
+#download{
+    border-radius: 50px;
+}
