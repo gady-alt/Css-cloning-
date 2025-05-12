@@ -30,8 +30,6 @@
     width: 850px;
     border-radius: 20px;
     height: 80px;
-    position:sticky;
-    top:2px;
 
 }
 #button1{
@@ -132,4 +130,20 @@
     height: 20px;
     color: white;
     top:810px;
+}
+.images{
+    display: inline-block;
+    height:400px;
+    width: 300px;
+    border-radius: 20px;
+}
+.purchase{
+    display: inline-block;
+    width: 600px;
+    border-radius: 10px;
+}
+.purwords{
+    display:inline-block;
+    width: 600px;
+    
 }
